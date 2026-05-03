@@ -480,7 +480,7 @@ Program berhasil mengimplementasikan sistem komunikasi client-server dengan duku
 ---
 
 
-## Soal 2 – Multiplayer Battle System
+## Soal 2 – The Battle Of Eterion
 
 ---
 
